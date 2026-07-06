@@ -2,6 +2,5 @@
 
 Terimakasih COA semoga kamu bahagia selalu
 
-## Cara jalaninnya
  ```bash
   java -jar Mars4_5.jar nc [Nama Folder]/[Nama File].asm
